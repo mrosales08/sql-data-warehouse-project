@@ -11,11 +11,11 @@ La arquitectura de datos de este proyecto sigue las capas
 2. **Capa Silver**: Esta capa incluye procesos de limpieza, estandarización y normalización para preparar los datos para su análisis.
 3. **Capa Gold**: Contiene datos listos para el negocio, modelados en un esquema de estrella (*star schema*) necesario para la generación de informes y el análisis.
 
-# Requisitos del proyecto
+## Requisitos del proyecto
 
-## Construcción del almacén de datos (Ingeniería de datos)
+### Construcción del almacén de datos (Ingeniería de datos)
 
-### Objetivo
+#### Objetivo
 
 Desarrollar un almacén de datos moderno utilizando SQL Server para consolidar información de ventas, facilitando la generación de informes analíticos y la toma de decisiones fundamentadas.
 
