@@ -1,6 +1,8 @@
+/*
 ===============================================================================
 Stored Procedure: Load Bronze Layer (Source -> Bronze)
 ===============================================================================
+	*/
 
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
 BEGIN
